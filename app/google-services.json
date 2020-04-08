@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "131369731896",
+    "firebase_url": "https://fir-1-937a7.firebaseio.com",
+    "project_id": "fir-1-937a7",
+    "storage_bucket": "fir-1-937a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131369731896:android:ddbe69d6e1a1ada71ea3cd",
+        "android_client_info": {
+          "package_name": "com.venkat.firebase1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "131369731896-1cedtn907qk1roueuj3b3r2ji2850nes.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU8EarVrolSn3RymOSMNuqn3Bea5x2zZ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "131369731896-1cedtn907qk1roueuj3b3r2ji2850nes.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
